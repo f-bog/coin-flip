@@ -19,9 +19,9 @@ class CoinFlip extends Component {
 
   handleFlip() {
     const rand = Math.floor(Math.random() * 2);
-    console.log(rand);
+
     this.setState({ flipping: true, headsOrTails: '' });
-    console.log(this.props.faces[rand] === this.props.faces[0]);
+
     setTimeout(() => {
       this.setState({ headsOrTails: this.props.faces[rand] });
       if (this.props.faces[rand] === this.props.faces[0]) {
