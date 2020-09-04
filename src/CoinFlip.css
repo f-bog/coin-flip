@@ -1,0 +1,18 @@
+.CoinFlip {
+  margin-top: 50px;
+}
+.CoinFlip button {
+  background: slateblue;
+  padding: 1rem 2rem;
+  width: 150px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.CoinFlip button:hover {
+  background: darkslateblue;
+}
