@@ -1,3 +1,9 @@
+## A little React Coin Flipping App
+
+Fun little app that will give heads or tails randomly on click with React + a funny animation using css 😜.
+
+[Check it out here](https://affectionate-hodgkin-cacb8c.netlify.app/)!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
