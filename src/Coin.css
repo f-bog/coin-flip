@@ -43,8 +43,6 @@
   -o-animation: flipHeads 3s ease-out forwards;
   animation: flipHeads 3s ease-out forwards;
 }
-.flip {
-}
 
 .tails {
   -webkit-animation: flipTails 3s ease-out forwards;
