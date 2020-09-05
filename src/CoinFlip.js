@@ -32,7 +32,7 @@ class CoinFlip extends Component {
     }, 100);
     setTimeout(() => {
       this.setState({ flipping: false });
-    }, 3000);
+    }, 2000);
   }
   render() {
     return (

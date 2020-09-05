@@ -2,9 +2,9 @@
   margin-top: 50px;
 }
 .CoinFlip button {
+  font-family: 'Nunito', sans-serif;
   background: slateblue;
-  padding: 1rem 2rem;
-  width: 150px;
+  width: 175px;
   height: 50px;
   border: none;
   border-radius: 10px;

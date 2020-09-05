@@ -38,17 +38,17 @@
 }
 
 .heads {
-  -webkit-animation: flipHeads 3s ease-out forwards;
-  -moz-animation: flipHeads 3s ease-out forwards;
-  -o-animation: flipHeads 3s ease-out forwards;
-  animation: flipHeads 3s ease-out forwards;
+  -webkit-animation: flipHeads 2s ease-out forwards;
+  -moz-animation: flipHeads 2s ease-out forwards;
+  -o-animation: flipHeads 2s ease-out forwards;
+  animation: flipHeads 2s ease-out forwards;
 }
 
 .tails {
-  -webkit-animation: flipTails 3s ease-out forwards;
-  -moz-animation: flipTails 3s ease-out forwards;
-  -o-animation: flipTails 3s ease-out forwards;
-  animation: flipTails 3s ease-out forwards;
+  -webkit-animation: flipTails 2s ease-out forwards;
+  -moz-animation: flipTails 2s ease-out forwards;
+  -o-animation: flipTails 2s ease-out forwards;
+  animation: flipTails 2s ease-out forwards;
 }
 
 @keyframes flipHeads {
