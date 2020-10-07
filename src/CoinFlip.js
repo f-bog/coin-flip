@@ -3,6 +3,8 @@ import './CoinFlip.css';
 import Coin from './Coin';
 
 class CoinFlip extends Component {
+  // add default props
+
   static defaultProps = {
     faces: ['heads', 'tails'],
   };
