@@ -63,11 +63,7 @@
 
 ## About The Project
 
-[![GIF screenshot]](https://github.com/frederickbogdanoff/coin-flip/blob/master/images/coinflip.gif)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`frederickbogdanoff`, `coin-flip`, `twitter_handle`, `fredericks.webdesigns@gmail.com`
+![GIF screenshot](https://github.com/frederickbogdanoff/coin-flip/blob/master/images/coinflip.gif)
 
 ### Built With
 
