@@ -27,9 +27,9 @@ class CoinFlip extends Component {
     setTimeout(() => {
       this.setState({ headsOrTails: this.props.faces[rand] });
       if (this.props.faces[rand] === this.props.faces[0]) {
-        this.setState((prevState) => ({ heads: prevState.heads + 1 }));
+        this.setState(prevState => ({ heads: prevState.heads + 1 }));
       } else {
-        this.setState((prevState) => ({ tails: prevState.tails + 1 }));
+        this.setState(prevState => ({ tails: prevState.tails + 1 }));
       }
     }, 100);
     setTimeout(() => {
